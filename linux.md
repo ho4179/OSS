@@ -1,6 +1,7 @@
 # Linux
 ![2b06022bee6710bb406368d8c609715e8cd07c7c05a3dacb6695b27b183f234c980d7924bdd64ace3461c61de4f411a811b4b5c3d0fc979a36455a74a9bce5b665f534636318f0d1bd9d06654e05267f34f581a8b60b3ccb2c7abf9ae089edd4](https://user-images.githubusercontent.com/112846155/204080249-2ab32f84-ace1-4ffe-877d-02c34c99e60c.png)
 
+<br>
 
 ## 1. linux란?
 : 핀란드 헬싱키 대학의 리누스 토발스(Linus Tovals)가 만든 오픈소스 운영 체제.
