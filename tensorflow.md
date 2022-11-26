@@ -2,6 +2,8 @@
 
 ![tensorflow_logo_icon_170598](https://user-images.githubusercontent.com/112846155/202891105-143c327b-2eb0-48dc-83d2-5d1756be2a2c.png)
 
+<br>
+
 ## 1. Tensorflow란?
 Tensoflow는 구글에서 만든 기계 학습(딥러닝/머신)을 위한 오픈소스 라이브러리. 딥러닝과 기계학습 분야를 일반인들도 사용하기 쉽도록 다양한 기능들을 제공하여 전 세계적으로 가장 인기 있고 많이 쓰이는 기계 학습 라이브러리이다. 
 
