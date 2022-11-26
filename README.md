@@ -4,6 +4,6 @@
 <br>
 [react](https://github.com/ho4179/oss/blob/main/react.md)
 <br>
-[Pytorch](https://github.com/ho4179/oss/blob/main/pytorch.md)
+[pytorch](https://github.com/ho4179/oss/blob/main/pytorch.md)
 <br>
 [tensorflow](https://github.com/ho4179/oss/blob/main/tensorflow.md)
